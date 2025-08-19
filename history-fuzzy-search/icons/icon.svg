@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#357ABD;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="128" height="128" rx="24" fill="url(#bg-gradient)"/>
+  
+  <!-- Search icon -->
+  <g transform="translate(32, 32)">
+    <!-- Magnifying glass circle -->
+    <circle cx="28" cy="28" r="18" stroke="white" stroke-width="6" fill="none"/>
+    <!-- Handle -->
+    <line x1="40" y1="40" x2="58" y2="58" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

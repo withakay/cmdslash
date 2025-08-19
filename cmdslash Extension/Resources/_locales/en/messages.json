@@ -1,10 +1,10 @@
 {
     "extension_name": {
-        "message": "cmdslash Extension",
+        "message": "History Fuzzy Search",
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "This is cmdslash Extension. You should tell us what your extension does here.",
+        "message": "Fuzzy search through browser history with zoxide-like semantics. Press Cmd+/ to open search.",
         "description": "Description of what the extension does."
     }
 }
